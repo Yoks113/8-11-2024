@@ -1,10 +1,3 @@
-let numButtonClicks = 0;
-
-function buttonClicked() {
-    numButtonClicks++;
-    document.getElementById("mainDiv").textContent = "Button Clicked times: " + numButtonClicks;
-}
-
 const images = [
     'image1.jpg',
     'image2.jpg',
