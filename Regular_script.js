@@ -42,6 +42,7 @@ const studentData = [
     {"studentId": "202218756", "code": "GNED 08", "name": "Understanding the Self", "units": 3},
     {"studentId": "202218756", "code": "ITEC 65", "name": "Open Source Technology", "units": 2},
     {"studentId": "202218756", "code": "ITEC 70", "name": "Multimedia Systems", "units": 2},
+    {"studentId": "202218654", "code": "Yoko na", "name": "Mag aral", "units": 69}
     //tinamad
 ];
 
